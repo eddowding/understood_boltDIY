@@ -1,0 +1,3 @@
+import { supabase } from './supabase.jsx'
+
+// Rest of the tools service remains the same...
